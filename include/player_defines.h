@@ -1,0 +1,27 @@
+/*
+** EPITECH PROJECT, 2018
+** player_defines.h
+** File description:
+** Player defines
+*/
+
+#ifndef PLAYER_DEFINES_H_
+#define PLAYER_DEFINES_H_
+
+#define LIFES_NUMBER			3
+#define PLAYER_SPAWN_X_RATIO		4
+#define PLAYER_SOUND_NUMBER		3
+#define PLAYER_JUMP_NBR			2
+#define PLAYER_RUN_TEXTURES		4
+#define PLAYER_RUNNING_STATE		0
+#define PLAYER_JUMPING_STATE		1
+#define PLAYER_DYING_STATE		2
+#define PLAYER_CLEARING_STATE		3
+#define PLAYER_ENDING_STATE		4
+#define PLAYER_TEXTURES_NUMBER		20
+#define PLAYER_TEXTURES_PER_LINE	5
+#define PLAYER_DEATH_TEXTURES		3
+#define PLAYER_TEXTURE_WIDTH		196
+#define PLAYER_TEXTURE_HEIGHT		164
+
+#endif /* !PLAYER_DEFINES_H_ */
