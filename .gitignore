@@ -1,0 +1,3 @@
+**/*.o
+my_runner
+lib/libmy.a
